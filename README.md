@@ -13,3 +13,6 @@
 Оформить страницу презентабельно (можно использовать инструменты типа Bootstrap);
 Выполнить задание, используя ajax-запросы;
 Производить комментирование кода.
+
+![image](https://github.com/user-attachments/assets/3249a580-595b-4ed3-b3a3-efd51787f737)
+![image](https://github.com/user-attachments/assets/42050fe2-642d-4f07-adb3-3ff132ae053d)
