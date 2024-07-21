@@ -10,7 +10,7 @@
 
 Использовать стандартный http или soap клиент битрикс (использовал  \Bitrix\Main\Web\HttpClient() );
 
-Создание HL блока реализовать через миграцию (файл для создании базы лежит в php_interface/migrashion/Version20240720083439.php );
+Создание HL блока реализовать через миграцию (https://marketplace.1c-bitrix.ru/solutions/sprint.migration/) (файл для создании базы лежит в php_interface/migrashion/Version20240720083439.php );
 
 Валидация должна присутствовать как минимум на серверной стороне;
 
